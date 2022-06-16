@@ -1,0 +1,15 @@
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\bin\Debug\net6.0\Key Press Game Or Something.exe
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\bin\Debug\net6.0\Key Press Game Or Something.deps.json
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\bin\Debug\net6.0\Key Press Game Or Something.runtimeconfig.json
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\bin\Debug\net6.0\Key Press Game Or Something.dll
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\bin\Debug\net6.0\Key Press Game Or Something.pdb
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.AssemblyInfoInputs.cache
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.AssemblyInfo.cs
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.dll
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\refint\Key Press Game Or Something.dll
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.pdb
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\Key Press Game Or Something.genruntimeconfig.cache
+C:\Users\sammy\source\repos\Key Press Game Or Something\Key Press Game Or Something\obj\Debug\net6.0\ref\Key Press Game Or Something.dll
